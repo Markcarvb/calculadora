@@ -25,10 +25,6 @@ Python 3.x
 Tkinter (já incluso nas versões padrão do Python)
 
 
-📸 Captura de Tela
-
-calculadora 01_03_2025 17_11_41.png
-
 🔧 Tecnologias Utilizadas
 
 Python
